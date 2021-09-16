@@ -1,2 +1,2 @@
-# BreakthroughGame
+# BreakthroughBoardGame
 Breakthrough board game in python.
